@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'clicknbuyapp', # category App
     "accounts",
-    'store'
+    'store',
+    'carts',
 ]
 
 MIDDLEWARE = [
